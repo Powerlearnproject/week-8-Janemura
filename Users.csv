@@ -1,0 +1,13 @@
+"user_id";"name";"email";"phone_number";"user_type";"verified_status"
+1;"Mwangi Kamau";"mwangi.kamau@example.com";"0712345678";"buyer";1
+2;"Akinyi Otieno";"akinyi.otieno@example.com";"0722345678";"seller";0
+3;"Mutua Njoroge";"mutua.njoroge@example.com";"0733345678";"legal_assistant";1
+4;"Wanjiru Karanja";"wanjiru.karanja@example.com";"0744445678";"buyer";0
+5;"Omondi Ochieng";"omondi.ochieng@example.com";"0755555678";"seller";1
+6;"Nafula Wekesa";"nafula.wekesa@example.com";"0766665678";"legal_assistant";0
+7;"Cherono Kipkorir";"cherono.kipkorir@example.com";"0777775678";"buyer";1
+8;"Abdi Mohamed";"abdi.mohamed@example.com";"0788885678";"seller";1
+9;"Fatuma Hassan";"fatuma.hassan@example.com";"0799995678";"legal_assistant";0
+10;"Juma Makau";"juma.makau@example.com";"0711223344";"buyer";1
+11;"Moraa Nyaboke";"moraa.nyaboke@example.com";"0722334455";"seller";1
+12;"Otieno Oketch";"otieno.oketch@example.com";"0733445566";"legal_assistant";1
